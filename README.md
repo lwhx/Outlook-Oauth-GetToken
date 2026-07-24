@@ -159,3 +159,9 @@ python get_refresh_token.py
 | 帐户已锁定 | 直接失败 |
 | 保持登录 | 点「否」 |
 | 同意 / 已授权 | 点接受，或直接拿到 code |
+
+---
+
+## 友情链接 / Community
+
+- [linux.do](https://linux.do) — 新的理想型社区 / a thriving developer community.
