@@ -162,6 +162,6 @@ python get_refresh_token.py
 
 ---
 
-## 友情链接 / Community
+## 友情链接
 
-- [linux.do](https://linux.do) — 新的理想型社区 / a thriving developer community.
+- [linux.do](https://linux.do)：**学AI，上L站！！！**
