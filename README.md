@@ -165,3 +165,4 @@ python get_refresh_token.py
 ## 友情链接
 
 - [linux.do](https://linux.do)：**学AI，上L站！！！**
+- [Nodeseek.com](https://www.nodeseek.com)：**Nodeseek是一个为热爱web开发、托管、vps /服务器和其他极客事物的人提供的地方。**
