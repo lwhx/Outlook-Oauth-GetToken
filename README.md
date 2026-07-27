@@ -4,6 +4,11 @@
 
 核心脚本：`get_refresh_token.py`（patchright 浏览器自动化 + 授权码换 token）。
 
+## 相关项目
+
+- **[OutlookRegister](https://github.com/daimon3332/OutlookRegister) — 账号注册。** 自动注册 Outlook / Hotmail 账号，并获取 Microsoft Graph OAuth2 `refresh_token`。
+- **[OutlookManage](https://github.com/daimon3332/OutlookManage) — 账号管理。** 用于导入、检测、刷新和管理已注册的 Outlook 账号及其 OAuth2 凭据。
+
 ---
 
 ## 1. 如何使用
